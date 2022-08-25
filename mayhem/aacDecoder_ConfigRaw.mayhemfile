@@ -1,0 +1,4 @@
+project: PROJECT
+target: aacDecoder_ConfigRaw
+cmds:
+- cmd: /out/aacDecoder_ConfigRaw
